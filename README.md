@@ -1,5 +1,5 @@
 # xserve-frontpanel-dkms
-Image: <img src="xserve-system-activity-lights-diagram.png">
+<img src="xserve-system-activity-lights-diagram.png">
 
 A DKMS wrapper for Rene Rebe's [xserve-frontpanel](https://svn.exactcode.de/t2/trunk/package/kernel/linux/xserve-frontpanel.patch) Linux patch.  No need to wait for the code to be committed into a future Linux release, and no need to build your own kernel.
 
